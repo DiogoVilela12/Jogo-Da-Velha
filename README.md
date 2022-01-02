@@ -1,6 +1,6 @@
 # Jogo-Da-Velha
 Criei um codigo simples onde é possivel jogar jogo da velha até você perder contra o computador...
-Para jogar é necessario apenas o Python 3.
+Para jogar é necessario apenas o Python.
 Execute o programa e jogue contra os robos...
 
 Regras:
